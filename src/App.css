@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.App {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+  background-image: url('https://th.bing.com/th/id/R413fd116a2a6382081eecfe0b344d15d?rik=eQmR%2bJdQr7dGtA&riu=http%3a%2f%2fhdlatestwallpaper.com%2fwp-content%2fuploads%2f2017%2f10%2fClear-sky-HD-Wallpaper.jpg&ehk=lvIMh3pQq4SegpVNuDAvIm1B4axcZwSmokaFUUrt0CI%3d&risl=&pid=ImgRaw');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: Permanent Marker; 
+  color: white;
+}
+
